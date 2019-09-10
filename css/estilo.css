@@ -1,0 +1,16 @@
+.cor-fundo {
+    background-color: #f5f5f5;
+}
+
+.topico-beleza {
+    max-height: 60%;
+}
+
+.linha-separacao {
+    border-block-color: black;
+}
+
+.slide-show {
+    max-height: 400px;
+    min-height: 400px;
+}
